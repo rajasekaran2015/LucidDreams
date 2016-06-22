@@ -10,13 +10,27 @@
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1604A6E21CCC2D9E00F87ED0"
                BuildableName = "LucidDreams.app"
                BlueprintName = "LucidDreams"
+               ReferencedContainer = "container:LucidDreams.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1694D4B61CD72AFE001B5B0A"
+               BuildableName = "LucidDreamsTests.xctest"
+               BlueprintName = "LucidDreamsTests"
                ReferencedContainer = "container:LucidDreams.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
